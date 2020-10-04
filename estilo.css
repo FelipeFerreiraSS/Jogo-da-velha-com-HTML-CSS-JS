@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: rgba(0, 183, 255, 0.863);
 }
 
 .quadrado {
@@ -25,4 +26,9 @@ button {
     height: 30px;
     background: #eee;
     cursor: pointer;
+    
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
 }
